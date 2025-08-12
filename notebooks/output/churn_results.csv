@@ -1,0 +1,62 @@
+Date,CustomerID,Product,Category,Quantity,Price,TotalAmount,PaymentMethod,City,Gender,Age,churn_score
+2024-01-01,C001,Shampoo,Personal Care,2,150,300,Card,Delhi,Female,28,1
+2024-01-01,C002,Toothpaste,Personal Care,1,75,75,Cash,Mumbai,Male,35,1
+2024-01-02,C003,Soap,Personal Care,4,25,100,UPI,Bangalore,Male,30,0
+2024-01-03,C001,Facewash,Skincare,1,120,120,Cash,Delhi,Female,28,0
+2024-01-04,C004,Toothpaste,Personal Care,2,75,150,UPI,Chennai,Female,41,0
+2024-01-05,C005,Shampoo,Personal Care,1,150,150,Card,Kolkata,Male,36,1
+2024-01-06,C006,Soap,Personal Care,2,25,50,Cash,Mumbai,Female,32,0
+2024-01-07,C007,Moisturizer,Skincare,1,180,180,UPI,Pune,Female,29,0
+2024-01-08,C002,Shampoo,Personal Care,3,150,450,Card,Mumbai,Male,35,1
+2024-01-09,C003,Toothpaste,Personal Care,2,75,150,Cash,Bangalore,Male,30,0
+2024-01-10,C008,Facewash,Skincare,1,120,120,Card,Hyderabad,Female,26,0
+2024-01-11,C009,Soap,Personal Care,5,25,125,UPI,Jaipur,Male,38,0
+2024-01-12,C001,Moisturizer,Skincare,1,180,180,Cash,Delhi,Female,28,0
+2024-01-13,C002,Toothpaste,Personal Care,1,75,75,UPI,Mumbai,Male,35,1
+2024-01-14,C005,Shampoo,Personal Care,1,150,150,Card,Kolkata,Male,36,1
+2024-01-15,C006,Facewash,Skincare,2,120,240,Cash,Mumbai,Female,32,0
+2024-01-16,C007,Toothpaste,Personal Care,3,75,225,UPI,Pune,Female,29,1
+2024-01-17,C008,Soap,Personal Care,2,25,50,Card,Hyderabad,Female,26,0
+2024-01-18,C009,Shampoo,Personal Care,2,150,300,Cash,Jaipur,Male,38,1
+2024-01-19,C004,Moisturizer,Skincare,1,180,180,Card,Chennai,Female,41,0
+2024-01-20,C010,Shampoo,Personal Care,2,150,300,UPI,Ahmedabad,Male,33,1
+2024-01-21,C011,Toothpaste,Personal Care,1,75,75,Cash,Surat,Female,27,0
+2024-01-22,C012,Facewash,Skincare,3,120,360,Card,Bhopal,Male,42,1
+2024-01-23,C013,Soap,Personal Care,1,25,25,UPI,Nagpur,Female,25,0
+2024-01-24,C014,Shampoo,Personal Care,4,150,600,Cash,Ranchi,Male,37,1
+2024-01-25,C015,Facewash,Skincare,2,120,240,Card,Delhi,Female,28,1
+2024-01-26,C016,Toothpaste,Personal Care,1,75,75,Cash,Lucknow,Female,31,1
+2024-01-27,C017,Moisturizer,Skincare,1,180,180,UPI,Indore,Male,40,0
+2024-01-28,C018,Shampoo,Personal Care,3,150,450,Card,Mumbai,Male,35,1
+2024-01-29,C019,Soap,Personal Care,3,25,75,UPI,Chandigarh,Female,30,0
+2024-01-30,C020,Facewash,Skincare,2,120,240,Cash,Bangalore,Male,32,0
+2024-01-31,C021,Toothpaste,Personal Care,2,75,150,Card,Patna,Female,29,0
+2024-02-01,C022,Shampoo,Personal Care,1,150,150,Cash,Mumbai,Male,34,0
+2024-02-02,C023,Soap,Personal Care,4,25,100,UPI,Delhi,Female,33,0
+2024-02-03,C024,Facewash,Skincare,1,120,120,Card,Chennai,Male,28,0
+2024-02-04,C025,Moisturizer,Skincare,2,180,360,Cash,Pune,Female,27,1
+2024-02-05,C026,Shampoo,Personal Care,3,150,450,UPI,Bangalore,Male,31,1
+2024-02-06,C027,Toothpaste,Personal Care,1,75,75,Card,Hyderabad,Female,35,1
+2024-02-07,C028,Soap,Personal Care,2,25,50,Cash,Mumbai,Male,30,0
+2024-02-08,C029,Facewash,Skincare,1,120,120,UPI,Delhi,Female,26,0
+2024-02-09,C030,Moisturizer,Skincare,3,180,540,Card,Chandigarh,Male,32,0
+2024-02-10,C031,Shampoo,Personal Care,2,150,300,Cash,Ahmedabad,Female,29,1
+2024-02-11,C032,Toothpaste,Personal Care,1,75,75,Card,Ranchi,Male,36,1
+2024-02-12,C033,Soap,Personal Care,5,25,125,UPI,Lucknow,Female,34,0
+2024-02-13,C034,Facewash,Skincare,2,120,240,Cash,Patna,Male,30,1
+2024-02-14,C035,Moisturizer,Skincare,1,180,180,Card,Surat,Female,31,0
+2024-02-15,C036,Shampoo,Personal Care,3,150,450,UPI,Bhopal,Male,33,1
+2024-02-16,C037,Toothpaste,Personal Care,2,75,150,Cash,Nagpur,Female,28,0
+2024-02-17,C038,Soap,Personal Care,1,25,25,Card,Mumbai,Male,35,1
+2024-02-18,C039,Facewash,Skincare,4,120,480,UPI,Delhi,Female,27,1
+2024-02-19,C040,Moisturizer,Skincare,2,180,360,Cash,Pune,Male,29,1
+2024-02-20,C041,Shampoo,Personal Care,1,150,150,Card,Chennai,Female,32,0
+2024-02-21,C042,Toothpaste,Personal Care,3,75,225,UPI,Bangalore,Male,34,1
+2024-02-22,C043,Soap,Personal Care,2,25,50,Cash,Hyderabad,Female,33,0
+2024-02-23,C044,Facewash,Skincare,1,120,120,Card,Mumbai,Male,30,0
+2024-02-24,C045,Moisturizer,Skincare,4,180,720,UPI,Delhi,Female,28,1
+2024-02-25,C046,Shampoo,Personal Care,2,150,300,Cash,Chandigarh,Male,31,1
+2024-02-26,C047,Toothpaste,Personal Care,1,75,75,Card,Ahmedabad,Female,29,0
+2024-02-27,C048,Soap,Personal Care,3,25,75,UPI,Ranchi,Male,35,0
+2024-02-28,C049,Facewash,Skincare,2,120,240,Cash,Lucknow,Female,33,1
+2024-02-29,C050,Moisturizer,Skincare,1,180,180,Card,Patna,Male,30,0
