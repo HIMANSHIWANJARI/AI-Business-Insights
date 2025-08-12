@@ -6,3 +6,4 @@ seaborn
 prophet
 scikit-learn
 textblob
+reportlab
